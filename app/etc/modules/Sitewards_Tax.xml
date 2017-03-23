@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_Tax>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Tax />
+            </depends>
+        </Sitewards_Tax>
+    </modules>
+</config>
